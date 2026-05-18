@@ -17,7 +17,7 @@
     "jspdf": "^2.5.2",
     "lucide-react": "^1.16.0",
     "mercadopago": "^2.12.1",
-    "next": "15.3.2",
+    "next": "^16.2.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "stripe": "^22.1.1"
