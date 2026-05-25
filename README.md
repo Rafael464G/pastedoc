@@ -40,6 +40,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Author
+
+**Rafael González** — [GitHub](https://github.com/Rafael464G) · [LinkedIn](https://www.linkedin.com/in/rafael-gonzalez-86a037370/) · [Workana](https://www.workana.com/freelancer/1de0dbb7abee74488ea4a8210811c022)
+
 ## License
 
 MIT
